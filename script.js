@@ -13,7 +13,10 @@ const videos = [
   },
   {
     url: "https://player.vimeo.com/video/1089625015?h=f0067b5f9b&autoplay=1&muted=1"
-  }
+  },
+  {
+    url: "https://player.vimeo.com/video/1089631527?h=d67902f963&autoplay=1&muted=1"
+  },
 ];
 
 const videoList = document.getElementById("videoList");
