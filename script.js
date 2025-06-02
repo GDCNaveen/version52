@@ -35,7 +35,9 @@ videos.forEach((video, index) => {
   const iframe = document.createElement("iframe");
   iframe.src = video.url + `&t=${Date.now()}`;
   iframe.allow = "autoplay; fullscreen; picture-in-picture";
-  iframe.id = `video-${index}`;
+  iframe.setAttribute("muted", "true");
+  iframe.setAttribute("allowfullscreen", "true");
+  //iframe.id = `video-${index}`;
 
   const footer = document.createElement("div");
   footer.className = "video-footer";
