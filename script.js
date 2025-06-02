@@ -35,6 +35,7 @@ videos.forEach((video, index) => {
   const iframe = document.createElement("iframe");
   iframe.src = video.url + `&t=${Date.now()}`;
   iframe.allow = "autoplay; fullscreen; picture-in-picture";
+  
   iframe.setAttribute("muted", "true");
   iframe.setAttribute("allowfullscreen", "true");
   //iframe.id = `video-${index}`;
