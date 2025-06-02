@@ -1,9 +1,9 @@
 const videos = [
   {
-    url: "https://player.vimeo.com/video/1089631438?h=81697939fc&autoplay=1&muted=1"
-  },
-  {
     url: "https://player.vimeo.com/video/1089631527?h=d67902f963&autoplay=1&muted=1"
+  },
+    {
+    url: "https://player.vimeo.com/video/1089631438?h=81697939fc&autoplay=1&muted=1"
   },
   {
     url: "https://player.vimeo.com/video/1089631694?h=93bad28916&autoplay=1&muted=1"
