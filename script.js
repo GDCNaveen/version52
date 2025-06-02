@@ -1,24 +1,24 @@
 const videos = [
   {
-    url: "https://player.vimeo.com/video/1089631527?h=d67902f963&autoplay=1&muted=1"
+    url: "https://player.vimeo.com/video/1089631527?h=d67902f963&autoplay=1&muted=1&loop=1"
   },
     {
-    url: "https://player.vimeo.com/video/1089631438?h=81697939fc&autoplay=1&muted=1"
+    url: "https://player.vimeo.com/video/1089631438?h=81697939fc&autoplay=1&muted=1&loop=1"
   },
   {
-    url: "https://player.vimeo.com/video/1089631694?h=93bad28916&autoplay=1&muted=1"
+    url: "https://player.vimeo.com/video/1089631694?h=93bad28916&autoplay=1&muted=1&loop=1"
   },
   {
-    url: "https://player.vimeo.com/video/1089631711?h=02c7a70e35&autoplay=1&muted=1"
+    url: "https://player.vimeo.com/video/1089631711?h=02c7a70e35&autoplay=1&muted=1&loop=1"
   },
   {
-    url: "https://player.vimeo.com/video/1089625015?h=f0067b5f9b&autoplay=1&muted=1"
+    url: "https://player.vimeo.com/video/1089625015?h=f0067b5f9b&autoplay=1&muted=1&loop=1"
   },
   {
-    url: "https://player.vimeo.com/video/1089655279?h=fccef3e55d&autoplay=1&muted=1"
+    url: "https://player.vimeo.com/video/1089655279?h=fccef3e55d&autoplay=1&muted=1&loop=1"
   },
   {
-    url: "https://player.vimeo.com/video/1089655327?h=ccd5d1c6ee&autoplay=1&muted=1"
+    url: "https://player.vimeo.com/video/1089655327?h=ccd5d1c6ee&autoplay=1&muted=1&loop=1"
   }
   
 ];
