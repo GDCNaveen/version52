@@ -1,6 +1,7 @@
 const videos = [
   {
-    url: "https://storage.cloud.google.com/keshavvideos/anna.mp4"
+    url: "https://storage.googleapis.com/keshavvideos/anna.mp4
+"
   },
     {
     url: "https://storage.cloud.google.com/keshavvideos/anna.mp4"
