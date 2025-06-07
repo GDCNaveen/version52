@@ -3,10 +3,10 @@ const videos = [
     url: "https://storage.cloud.google.com/keshavvideos/anna.mp4"
   },
     {
-    url: "https://player.vimeo.com/video/1089631438?h=81697939fc&autoplay=1&muted=1&loop=1"
+    url: "https://storage.cloud.google.com/keshavvideos/anna.mp4"
   },
   {
-    url: "https://player.vimeo.com/video/1089631694?h=93bad28916&autoplay=1&muted=1&loop=1"
+    url: "https://storage.cloud.google.com/keshavvideos/anna.mp4"
   },
   {
     url: "https://player.vimeo.com/video/1089631711?h=02c7a70e35&autoplay=1&muted=1&loop=1"
