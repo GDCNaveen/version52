@@ -1,6 +1,6 @@
 const videos = [
   {
-    url: "https://player.vimeo.com/video/1089631527?h=d67902f963&autoplay=1&muted=1&loop=1"
+    url: "https://storage.cloud.google.com/keshavvideos/anna.mp4"
   },
     {
     url: "https://player.vimeo.com/video/1089631438?h=81697939fc&autoplay=1&muted=1&loop=1"
